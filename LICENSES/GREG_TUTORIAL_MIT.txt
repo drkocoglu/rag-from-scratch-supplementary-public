@@ -1,6 +1,8 @@
 MIT License
 
-Copyright (c) 2026 Yildirim Kocoglu
+Attribution: Greg Kamradt / FullStackRetrieval.com
+Official MIT statement: https://community.fullstackretrieval.com/document-loaders/text-splitting
+The source website footer states Copyright (c) 2024 FullStackRetrieval.com.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
